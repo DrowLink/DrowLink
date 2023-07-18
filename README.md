@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Paulo Riveiro</h1>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
 - 🌱 I’m currently learning **Flask**
@@ -12,12 +11,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/paulo riveiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo riveiro" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/paulo-riveiro-74a5a218b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo-riveiro-74a5a218b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22247097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22247097" height="30" width="40" /></a>
 <a href="https://instagram.com/pauloorrss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pauloorrss" height="30" width="40" /></a>
 </p>
 
-
+[![GitHub drowlink](https://img.shields.io/github/followers/drowlink?label=follow&style=social)](https://github.com/DrowLink)
 
 <a class="github-button" href="https://github.com/DrowLink" aria-label="Follow @DrowLink on GitHub">Follow @DrowLink</a>
 
