@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Paulo Riveiro</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 BootCamp FullStack Developer <a href="https://4geeksacademy.com/es/inicio">4GeeksAcademy</a>
 
 - 📫 How to reach me **pauloriveiro01@gmail.com**
 
-- ⚡ Fun fact **i like games**
+- ⚡ Fun fact **i like videogames**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
