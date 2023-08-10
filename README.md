@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paulo Riveiro</h1>
-<h3 align="center">A passionate frontend developer from Venezuela</h3>
+<h3 align="center">A passionate FullStack Web developer from Venezuela</h3>
 
 - 🌱 I’m currently learning **Django**
 
