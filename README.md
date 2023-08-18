@@ -9,7 +9,12 @@
 
 - 📫 How to reach me **pauloriveiro01@gmail.com**
 
-- 🚀 <a href="pauloriveiro.com">My Portfolio Website!</a> ⭐
+- 🚀 <a href="https://www.pauloriveiro.com">My Portfolio Website!</a> ⭐
+
+I enjoy building and collaborating on apps & projects! 😎
+
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
