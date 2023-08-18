@@ -28,7 +28,8 @@
 <br/>
 <hr class="solid">
 <br/>
-<br/>
+
 <p align="center">
 <img src="https://i.pinimg.com/564x/0e/e3/3a/0ee33a004930bcb28d3cabd6a6a8dd80.jpg" alt="Computer man" style="width:550px;height:256px;">
 </p>
+<br/>
