@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django** & **React** 🔥
 
-- 👨‍💻 BootCamp FullStack Developer <a href="https://4geeksacademy.com/es/inicio">4GeeksAcademy</a>
+- 👨‍💻 <a href="https://4geeksacademy.com/es/inicio">4GeeksAcademy</a>
 
 - 📫 How to reach me **pauloriveiro01@gmail.com**
 
