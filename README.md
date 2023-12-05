@@ -35,8 +35,6 @@ I enjoy building and collaborating on apps & projects! 😎
 <br/>
 
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png
-
 <p align="center">
 <img src="https://i.pinimg.com/564x/0e/e3/3a/0ee33a004930bcb28d3cabd6a6a8dd80.jpg" alt="Computer man" style="width:550px;height:256px;">
 </p>
