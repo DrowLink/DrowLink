@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paulo Riveiro</h1>
 <br/>
-<h3 align="left">A passionate FullStack Web developer from Venezuela</h3>
-
-
-- 🌱 I’m currently learning **Django**, **React** & **PHP**
+<h3 align="left">FullStack Web developer from Venezuela</h3>
 
 - 👨‍💻 <a href="https://4geeksacademy.com/es/inicio">4GeeksAcademy</a>
 
