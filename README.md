@@ -24,6 +24,7 @@ I enjoy building and collaborating on apps & projects! 😎
 <p align="center"> 
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="Best Programming Language" width="120" height="55"/> </a>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="Google Cloud Platform" width="120" height="55"/> </a>
+  <a href="http://flutterflow.io/" target="_blank" rel="noreferrer"> <img src="https://www.fahimai.com/wp-content/uploads/2024/09/CTA-16.png" alt="FlutterFlow" width="55" height="55"/> </a>
 </p>
 <br/>
 <br/>
@@ -43,7 +44,7 @@ I enjoy building and collaborating on apps & projects! 😎
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://console.firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://console.firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21~bgwhite.svg" alt="firebase" width="110" height="45"/> </a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" alt="php" width="40" height="40"/> </a>
 </p>
 <br/>
