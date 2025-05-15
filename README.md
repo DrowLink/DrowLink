@@ -22,8 +22,8 @@ I enjoy building and collaborating on apps & projects! 😎
 
 <h3 align="center">Main Stack:</h3>
 <p align="center"> 
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="Best Programming Language" width="40" height="120"/> </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="Google Cloud Platform" width="40" height="120"/> </a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="Best Programming Language" width="120" height="40"/> </a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="Google Cloud Platform" width="120" height="40"/> </a>
 </p>
 <br/>
 <br/>
