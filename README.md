@@ -23,8 +23,12 @@ I enjoy building and collaborating on apps & projects! 😎
 <h3 align="center">Main Stack:</h3>
 <p align="center"> 
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="Best Programming Language" width="120" height="55"/> </a>
+  <a href="http://flutterflow.io/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa5EGMgriySog2zfieUY_mmmWxL-HTMeBOLQ&s" alt="FlutterFlow" width="55" height="55"/> </a>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="Google Cloud Platform" width="120" height="55"/> </a>
-  <a href="http://flutterflow.io/" target="_blank" rel="noreferrer"> <img src="https://www.fahimai.com/wp-content/uploads/2024/09/CTA-16.png" alt="FlutterFlow" width="55" height="55"/> </a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" alt="Firebase" width="55" height="55"/> </a>
+
+  
+  
 </p>
 
 <br/>
