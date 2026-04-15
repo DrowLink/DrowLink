@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **pauloriveiro01@gmail.com**
 
+- 🌐 Portfolio: <a href="https://pauloriveiro.com" target="_blank">Pauloriveiro.com</a>
+
 I enjoy building and collaborating on apps & projects! 😎
 
 
