@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paulo Riveiro</h1>
 <br/>
-<h3 align="left">FullStack Mobile & Cross-platform developer from Venezuela</h3>
+<h3 align="left">Flutter & Cloud Developer from Venezuela</h3>
 
 - 👨‍💻 <a href="https://4geeksacademy.com/es/inicio">4GeeksAcademy</a>
 
