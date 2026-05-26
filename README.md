@@ -23,7 +23,7 @@
 | Project | Description | Technologies |
 |----------|-------------|-------------|
 | [Liquid Glass Widgets](https://github.com/DrowLink/liquid_glass_widgets) | Flutter UI Kit with "glass" effects (blur, shaders, animations) at an Apple iOS 26 level. | Flutter, Shader, Dart |
-| [Your other project](#) | Brief description of your other relevant project for clients or employers. | Main technologies |
+| [Atlas - AI Point of Sale App & CRM for Professionals](https://atlas.gehsconsulting.com/) | Brief description of your other relevant project for clients or employers. | React.js, Flutter, Express.js, GCP, NoSQL |
 
 ---
 
