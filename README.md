@@ -1,19 +1,16 @@
+<!-- Professional profile README of Paulo Riveiro -->
 <h1 align="center">Hi 👋, I'm Paulo Riveiro</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2332BAFF.svg?&style=flat&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud-GCP-blue?style=flat&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DrowLink.DrowLink" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrowLink&show_icons=true&theme=radical" height="135"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrowLink&layout=compact&theme=radical" height="135"/>
 </p>
 
 ---
 
 ### 👨‍💻 About me
 
- **Fullstack** developer passionate about building high-impact digital products, optimizing both mobile frontend and cloud backend. I maintain a strong focus on quality, UI/UX, and continuous value delivery.
 
 - 🌎 Portfolio: [pauloriveiro.com](https://pauloriveiro.com)
 - 📫 Contact: [pauloriveiro01@gmail.com](mailto:pauloriveiro01@gmail.com)
@@ -26,15 +23,15 @@
 | Project | Description | Technologies |
 |----------|-------------|-------------|
 | [Liquid Glass Widgets](https://github.com/DrowLink/liquid_glass_widgets) | Flutter UI Kit with "glass" effects (blur, shaders, animations) at an Apple iOS 26 level. | Flutter, Shader, Dart |
-| [Atlas - AI Point of Sale App & CRM for Professionals/local businesses](https://atlas.gehsconsulting.com/) | Brief description of your other relevant project for clients or employers. | React, Flutter, Dart, GCP |
+| [Your other project](#) | Brief description of your other relevant project for clients or employers. | Main technologies |
 
 ---
 
 ### 🛠️ Main Stack
 
-| Flutter | Google Cloud | Python | Dart | Node.js | React Native | Supabase | Firebase |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="35"/> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="35"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="35"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="35"/> | <img src="https://reactnative.dev/img/header_logo.svg" width="35"/> | <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="35"/> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="35"/> |
+| Flutter | Google Cloud | JavaScript | Python | Dart | Node.js | React Native | Supabase | Firebase |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="35" alt="Flutter"/> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="35" alt="GCP"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" alt="JavaScript"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" alt="Python"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="35" alt="Dart"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="35" alt="Node.js"/> | <img src="https://reactnative.dev/img/header_logo.svg" width="35" alt="React Native"/> | <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="35" alt="Supabase"/> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="35" alt="Firebase"/> |
 
 **Other tools:** Bash, Django, Tailwind, Bootstrap, Postman, Jest, Unity, Flutterflow, PHP...
 
