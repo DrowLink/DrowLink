@@ -26,8 +26,7 @@ I enjoy building and collaborating on apps & projects! 😎
 <p align="center"> 
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Best Programming Language" width="55" height="55"/> </a>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud Platform" width="55" height="55"/> </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" alt="Firebase" width="55" height="55"/> </a>
-  <a href="http://flutterflow.io/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa5EGMgriySog2zfieUY_mmmWxL-HTMeBOLQ&s" alt="FlutterFlow" width="55" height="55"/> </a>
+
   
   
 </p>
@@ -51,6 +50,7 @@ I enjoy building and collaborating on apps & projects! 😎
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://console.firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/> </a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" alt="php" width="40" height="40"/> </a>
+  <a href="http://flutterflow.io/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa5EGMgriySog2zfieUY_mmmWxL-HTMeBOLQ&s" alt="FlutterFlow" width="55" height="55"/> </a>
 </p>
 <br/>
 <hr class="solid">
