@@ -29,7 +29,7 @@
 
 ### 🛠️ Main Stack
 
-| Flutter | Google Cloud | JavaScript | Python | Dart | Node.js | React Native | Supabase | Firebase |
+| Flutter | Google Cloud | JavaScript | Python | Dart | Node.js | React | Supabase | Firebase |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="35" alt="Flutter"/> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="35" alt="GCP"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" alt="JavaScript"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" alt="Python"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="35" alt="Dart"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="35" alt="Node.js"/> | <img src="https://reactnative.dev/img/header_logo.svg" width="35" alt="React Native"/> | <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="35" alt="Supabase"/> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="35" alt="Firebase"/> |
 
