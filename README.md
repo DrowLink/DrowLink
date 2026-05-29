@@ -22,7 +22,7 @@
 
 | Project | Description | Technologies |
 |----------|-------------|-------------|
-| [Fluid Motions - Flutter Package](https://github.com/DrowLink/liquid_glass_widgets) | Say goodbye to static Durations and rigid Curves. Fluid Motions brings organic, spring-driven physics to your UI, inspired by Framer Motion. | Flutter, SpringSimulation, Dart |
+| [Fluid Motions - Flutter Package](https://pub.dev/packages/fluid_motions) | Say goodbye to static Durations and rigid Curves. Fluid Motions brings organic, spring-driven physics to your UI, inspired by Framer Motion. | Flutter, SpringSimulation, Dart |
 | [Atlas - AI Point of Sale App & CRM for Professionals](https://atlas.gehsconsulting.com/) | Brief description of your other relevant project for clients or employers. | React.js, Flutter, Express.js, GCP, NoSQL |
 
 ---
