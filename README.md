@@ -51,7 +51,7 @@
 ### 📈 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.haaaerokuapp.com?user=DrowLink&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrowLink&theme=radical"/>
 </p>
 
 ---
