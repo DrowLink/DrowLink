@@ -1,61 +1,138 @@
 <!-- Professional profile README of Paulo Riveiro -->
-<h1 align="center">Hi 👋, I'm Paulo Riveiro</h1>
+
+<!-- Header Banner using Capsule Render -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2332BAFF.svg?&style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-GCP-blue?style=flat&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DrowLink.DrowLink" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=250&section=header&text=Paulo%20Riveiro&fontSize=55&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Cloud%20Architect&descAlignY=70&descAlign=50&fontColor=ffffff&descSize=20" alt="Header" />
+</p>
+
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://pauloriveiro.com"><img src="https://img.shields.io/badge/Portfolio-pauloriveiro.com-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/DrowLink"><img src="https://img.shields.io/badge/GitHub-DrowLink-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/paulo-riveiro-74a5a218b"><img src="https://img.shields.io/badge/LinkedIn-Paulo_Riveiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=DrowLink&color=007BFF&style=for-the-badge&label=views" alt="Views" />
 </p>
 
 ---
 
-### 👨‍💻 About me
+## 👋 About me
 
+Full-Stack Developer and AI Engineer based in **Lecheria, Venezuela**, currently working as a **Full-Stack & Cloud Engineer**. I build production software across the stack, design enterprise cloud architectures on **GCP**, **AWS**, or **Azure**, and research AI solutions..  from LLM-driven tooling to RAG architectures.
 
-- 🌎 Portfolio: [pauloriveiro.com](https://pauloriveiro.com)
-- 📫 Contact: [pauloriveiro01@gmail.com](mailto:pauloriveiro01@gmail.com)
-- 🤝 Always open to collaborating on projects and sharing knowledge.
-
----
-
-### 🚩 Featured Projects
-
-| Project | Description | Technologies |
-|----------|-------------|-------------|
-| [Fluid Motions - Flutter Package](https://pub.dev/packages/fluid_motions) | Say goodbye to static Durations and rigid Curves. Fluid Motions brings organic, spring-driven physics to your UI, inspired by Framer Motion. | Flutter, SpringSimulation, Dart |
-| [Atlas - AI Point of Sale App & CRM for Professionals](https://atlas.gehsconsulting.com/) | Brief description of your other relevant project for clients or employers. | React.js, Flutter, Express.js, GCP, NoSQL |
+- 🤖 Working with **LLMs, RAG and AI Agents** (LangChain · Python · OpenAI)
+- 📱 Building cross-platform applications in **Flutter** and **React**
+- ☁️ Delivering scalable cloud architectures on **GCP**, **AZURE** and **AWS**
+- 🤝 Open to freelance projects and collaboration on **Applied AI & Cloud Architecture**
 
 ---
 
-### 🛠️ Main Stack
+## ⭐ Flagship Project
 
-| Flutter | Google Cloud | JavaScript | Python | AWS | Node.js | React | Supabase | Firebase |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="35" alt="Flutter"/> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="35" alt="GCP"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" alt="JavaScript"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" alt="Python"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35" alt="AWS"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="35" alt="Node.js"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35" alt="React"/> | <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="35" alt="Supabase"/> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="35" alt="Firebase"/> |
-
-**Other tools:** Bash, Django, Tailwind, Bootstrap, Postman, Jest, Unity, Flutterflow, PHP...
-
----
-
-### 🌐 Contact and Links
-
+<h3 align="center"><a href="https://atlas.gehsconsulting.com/" target="_blank">📱 Atlas CRM</a></h3>
+<p align="center"><b>AI Point-of-Sale App & CRM for Professionals</b></p>
 <p align="center">
-  <a href="https://linkedin.com/in/paulo-riveiro-74a5a218b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" /></a>
-  <a href="mailto:pauloriveiro01@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square" /></a>
-  <a href="https://stackoverflow.com/users/22247097" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-orange?logo=stackoverflow&style=flat-square" /></a>
-  <a href="https://pauloriveiro.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?logo=google-chrome&style=flat-square" /></a>
+A modular SaaS platform delivering role-based dashboards and tailored retail experiences. Engineered automated workflows using API triggers connecting virtual machines with third-party Email, SMS, and WhatsApp integrations.
+</p>
+<p align="center">
+  <code>React.js</code> <code>NoSQL</code> <code>VPS</code> <code>Flutter</code> <code>GCP</code> <code>Express.js</code>
 </p>
 
 ---
 
-### 📈 GitHub Metrics
+## 🛠️ Tech Stack
 
+<h4 align="center">Languages</h4>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrowLink&theme=radical"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+<h4 align="center">AI & Data</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+<h4 align="center">Frontend</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+<h4 align="center">Backend & DevOps</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| **[Freeela.app](#)** | `React` `Flutter` `GCP` | Local business discovery platform with AI content tools and native-like web bypass. |
+| **[Cometinfo.com](https://pauloriveiro.com)** | `React` `Next.js` `Supabase` | Event lead-capture platform with AI lead sync and automated follow-ups for conversions. |
+| **[RepairFlow](#)** | `Flutter` `GCP Maps SDK` | Lead-collection CRM leveraging AppSheet webhooks, VIN decoding, and location-based tracking. |
+
+---
+
+## 💼 Experience
+
+| Period | Role | Company |
+|--------|------|---------|
+| 2025 — 2026 | 📱 **Flutter & Cloud Engineer** | Dent-Picks — Plano, TX (Remote) |
+| 2024 — 2025 | ☁️ **Backend Engineer** | Lordalexandco — Montreal, CA (Remote) |
+| 2023 — 2024 | 🧠 **Software & AI Engineer** | Cotufas System — Lechería, VE |
+| 2022 — 2023 | 💻 **Fullstack & AI Engineer** | Cipher — Catalonia, ES (Remote) |
+
+---
+
+## 🎓 Education & Certifications
+
+| Period | Degree / Certificate | Institution |
+|--------|----------------------|-------------|
+| 2026 | ☁️ **Associate Cloud Engineer (Cert)** | Google Cloud |
+| 2023 | 💻 **Full-Stack Developer** | 4Geeks Academy |
+| 2017 — 2023 | 🎓 **Systems Engineering** | Santiago Mariño University |
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://i.pinimg.com/564x/0e/e3/3a/0ee33a004930bcb28d3cabd6a6a8dd80.jpg" alt="Computer man" width="550"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DrowLink&show_icons=true&theme=dark&hide_border=true&title_color=007BFF&icon_color=007BFF&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrowLink&layout=compact&theme=dark&hide_border=true&title_color=007BFF&bg_color=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrowLink&theme=tokyonight&bg_color=0D1117&color=007BFF&line=007BFF&point=FFFFFF&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://pauloriveiro.com"><img src="https://img.shields.io/badge/PORTFOLIO-pauloriveiro.com-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://github.com/DrowLink"><img src="https://img.shields.io/badge/GITHUB-DrowLink-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:pauloriveiro01@gmail.com"><img src="https://img.shields.io/badge/EMAIL-pauloriveiro01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <i>"Turning ideas into scalable code. ✨"</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=100&section=footer" width="100%"/>
 </p>
