@@ -21,10 +21,11 @@
 
 Full-Stack Developer and AI Engineer based in **Lecheria, Venezuela**, currently working as a **Full-Stack & Cloud Engineer**. I build production software across the stack, design enterprise cloud architectures on **GCP**, **AWS**, or **Azure**, and research AI solutions..  from LLM-driven tooling to RAG architectures.
 
-- 🤖 Working with **LLMs, RAG and AI Agents** (LangChain · Python · OpenAI)
-- 📱 Building cross-platform applications in **Flutter** and **React**
-- ☁️ Delivering scalable cloud architectures on **GCP**, **AZURE** and **AWS**
-- 🤝 Open to freelance projects and collaboration on **Applied AI & Cloud Architecture**
+- 🤖 Developing **AI Agents, RAG & Data Models** (LangChain · Python · OpenAI · Scikit-Learn)
+- 📱 Building cross-platform apps & modern web interfaces (**Flutter · React · Vue · Angular**)
+- ⚙️ Architecting robust backends & APIs (**Laravel · Flask · Node.js · MySQL**)
+- ☁️ Delivering scalable cloud architectures & automation on **GCP**, **AZURE** and **AWS**
+- 🤝 Open to projects and collaboration on **Applied AI & Full-Stack Development**
 
 ---
 
