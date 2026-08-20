@@ -4,7 +4,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=250&section=header&text=Paulo%20Riveiro&fontSize=55&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Cloud%20Architect&descAlignY=70&descAlign=50&fontColor=ffffff&descSize=20" alt="Header" />
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1500&color=007BFF&center=true&vCenter=true&width=600&lines=Paulo+Riveiro+-+Full-Stack+%26+AI+Engineer;Turning+ideas+into+scalable+code.;Flutter+%7C+GCP+%7C+LangChain" alt="Typing Animation" />
+</p>
 <!-- Social Badges -->
 <p align="center">
   <a href="https://pauloriveiro.com"><img src="https://img.shields.io/badge/Portfolio-pauloriveiro.com-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
