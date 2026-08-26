@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1500&color=007BFF&center=true&vCenter=true&width=600&lines=Paulo+Riveiro+-+Full-Stack+%26+AI+Engineer;Turning+ideas+into+scalable+code.;Flutter+%7C+GCP+%7C+LangChain" alt="Typing Animation" />
 </p>
+
 <!-- Social Badges -->
 <p align="center">
   <a href="https://pauloriveiro.com"><img src="https://img.shields.io/badge/Portfolio-pauloriveiro.com-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
@@ -19,7 +20,7 @@
 
 ## 👋 About me
 
-Full-Stack Developer and AI Engineer based in **Lecheria, Venezuela**, currently working as a **Full-Stack & Cloud Engineer**. I build production software across the stack, design enterprise cloud architectures on **GCP**, **AWS**, or **Azure**, and research AI solutions..  from LLM-driven tooling to RAG architectures.
+Full-Stack Developer and AI Engineer based in **Lecheria, Venezuela**, currently working as a **Full-Stack & Cloud Engineer**. I build production software across the stack, design enterprise cloud architectures on **GCP**, **AWS**, or **Azure**, and research AI solutions... from LLM-driven tooling to RAG architectures.
 
 - 🤖 Developing **AI Agents, RAG & Data Models** (LangChain · Python · OpenAI · Scikit-Learn)
 - 📱 Building cross-platform apps & modern web interfaces (**Flutter · React · Vue · Angular**)
@@ -31,13 +32,13 @@ Full-Stack Developer and AI Engineer based in **Lecheria, Venezuela**, currently
 
 ## ⭐ Flagship Project
 
-<h3 align="center"><a href="https://atlas.gehsconsulting.com/" target="_blank">📱 Atlas CRM</a></h3>
-<p align="center"><b>AI Point-of-Sale App & CRM for Professionals</b></p>
+<h3 align="center"><a href="https://github.com/DrowLink/aeo-audit-linter" target="_blank">🔍 AEO Audit Linter</a></h3>
+<p align="center"><b>AI Engine Optimization (AEO) & LLM Readability Audit Tool</b></p>
 <p align="center">
-A modular SaaS platform delivering role-based dashboards and tailored retail experiences. Engineered automated workflows using API triggers connecting virtual machines with third-party Email, SMS, and WhatsApp integrations.
+Static analysis linter and benchmarking engine designed to audit, optimize, and score web content for LLM retrieval systems, Search Generative Experiences (SGE), and AI search crawlers.
 </p>
 <p align="center">
-  <code>React.js</code> <code>NoSQL</code> <code>VPS</code> <code>Flutter</code> <code>GCP</code> <code>Express.js</code>
+  <code>Python</code> <code>CLI</code> <code>AI/LLM</code> <code>NLP</code> <code>Automation</code>
 </p>
 
 ---
@@ -104,8 +105,11 @@ A modular SaaS platform delivering role-based dashboards and tailored retail exp
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| **[Freeela.app](#)** | `React` `Flutter` `GCP` | Local business discovery platform with AI content tools and native-like web bypass. |
-| **[Cometinfo.com](https://pauloriveiro.com)** | `React` `Next.js` `Supabase` | Event lead-capture platform with AI lead sync and automated follow-ups for conversions. |
+| **[AEO Audit Linter](https://github.com/DrowLink/aeo-audit-linter)** | `Python` `NLP` `CLI` | AI Engine Optimization linter evaluating web schemas and content readiness for LLM scrapers. |
+| **[Fluid Motions](https://github.com/DrowLink/fluid-motions)** | `Flutter` `Dart` `Animations` | High-performance UI animation package delivering smooth transitions and physics-based gestures. |
+| **[Atlas AI CRM & PoS](https://atlas.gehsconsulting.com/)** | `React` `Flutter` `GCP` | AI-driven POS and modular CRM with automated triggers connecting VMs with messaging gateways. |
+| **[Freeela.app](https://freeela.app)** | `React` `Flutter` `GCP` | Local business discovery platform with AI content tools and native-like web bypass. |
+| **[Cometinfo.com](https://Cometinfo.com)** | `React` `Next.js` `Supabase` | Event lead-capture platform with AI lead sync and automated follow-ups for conversions. |
 | **[RepairFlow](#)** | `Flutter` `GCP Maps SDK` | Lead-collection CRM leveraging AppSheet webhooks, VIN decoding, and location-based tracking. |
 
 ---
@@ -133,9 +137,9 @@ A modular SaaS platform delivering role-based dashboards and tailored retail exp
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrowLink&theme=tokyonight&bg_color=0D1117&color=007BFF&line=007BFF&point=FFFFFF&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DrowLink&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=007BFF&icon_color=007BFF&text_color=c9d1d9&border_color=30363d" alt="Paulo's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrowLink&theme=tokyonight&background=0D1117&ring=007BFF&fire=007BFF&currStreakLabel=007BFF&border=30363d" alt="Paulo's GitHub Streak" />
 </p>
 
 ---
