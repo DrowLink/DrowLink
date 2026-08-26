@@ -138,7 +138,7 @@ Static analysis linter and benchmarking engine designed to audit, optimize, and 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrowLink&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=007BFF&icon_color=007BFF&text_color=c9d1d9&border_color=30363d" alt="Paulo's GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DrowLink&theme=tokyonight" alt="Paulo's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrowLink&theme=tokyonight&background=0D1117&ring=007BFF&fire=007BFF&currStreakLabel=007BFF&border=30363d" alt="Paulo's GitHub Streak" />
 </p>
 
