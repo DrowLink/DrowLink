@@ -24,7 +24,7 @@ Full-Stack Developer and AI Engineer based in **Lecheria, Venezuela**, currently
 
 - 🤖 Developing **AI Agents, RAG & Data Models** (LangChain · Python · OpenAI · Scikit-Learn)
 - 📱 Building cross-platform apps & modern web interfaces (**Flutter · React · Vue · Angular**)
-- ⚙️ Architecting robust backends & APIs (**Laravel · Flask · Node.js · MySQL**)
+- ⚙️ Architecting robust backends & APIs (**Laravel · Flask · Node.js · MySQL** · Next · Express · Django)
 - ☁️ Delivering scalable cloud architectures & automation on **GCP**, **AZURE** and **AWS**
 - 🤝 Open to projects and collaboration on **Applied AI & Full-Stack Development**
 
