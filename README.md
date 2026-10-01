@@ -10,10 +10,19 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://pauloriveiro.com"><img src="https://img.shields.io/badge/Portfolio-pauloriveiro.com-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/DrowLink"><img src="https://img.shields.io/badge/GitHub-DrowLink-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/paulo-riveiro-74a5a218b"><img src="https://img.shields.io/badge/LinkedIn-Paulo_Riveiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=DrowLink&color=007BFF&style=for-the-badge&label=views" alt="Views" />
+  <a href="https://pauloriveiro.com">
+    <img src="https://img.shields.io/badge/Portfolio-pauloriveiro.com-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/DrowLink">
+    <img src="https://img.shields.io/badge/GitHub-DrowLink-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/paulo-riveiro-74a5a218b">
+    <img src="https://img.shields.io/badge/LinkedIn-Paulo_Riveiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://user-badge.committers.top/venezuela/DrowLink">
+    <img src="https://user-badge.committers.top/venezuela/DrowLink.svg" alt="committers.top badge" height="28" style="vertical-align: middle;" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=DrowLink&color=007BFF&style=for-the-badge&label=views" alt="Views" style="vertical-align: middle;" />
 </p>
 
 ---
